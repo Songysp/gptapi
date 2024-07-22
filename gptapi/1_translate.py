@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = "sk-proj-VY5y0Bt79f6lY9dXhoKBT3BlbkFJ855t7a8Tc5BrP67xgmh2"
+openai.api_key = "APIKEY"
 
 
 example = {
