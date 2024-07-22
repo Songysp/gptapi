@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from pymongo import MongoClient
 from datetime import datetime
 
-url = 'mongodb+srv://hyeon9502:tFtkv4tZLQpuq4e8@kdt.bzcb48q.mongodb.net/?retryWrites=true&w=majority&appName=kdt'
+url = 'MONGODBURL"
 
 client = MongoClient(url)
 
